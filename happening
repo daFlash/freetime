@@ -41,3 +41,9 @@ Cisco's Product Security Incident Response Team reported that there is a flaw wi
 iOS software which is exploited by the ShadowBrokers. The Shadow brokers(TSB) is an unknown threat actor responsible of publication of many
 exploit and vulnerabilities.
 
+Threatpost site sourced info on OpenSSL bug with OCSP(DoS on the OCSP site itself) and Sweet32 (ability to decrypt 
+3DES or Blowfish traffic)
+
+Roger's Infosec Blog talks about using Password Manager software which is vital.
+Customers to be encouraged to use longer passphrases instead of tough to remember passwords.
+
