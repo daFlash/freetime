@@ -11,3 +11,19 @@ information.
 Majority of the passwords that were leaked were cryptographically hashed with the bcrypt hashing scheme which is relatively tough for reversing
 and deciphering the actual password.
 
+Tesla S's brakes can be controlled remotely
+Chinese Hacker from a tech giant called Tencent has demonstrated that by crafting a malicious payload and by sending it over to the 
+car which is connected to a malicious WiFi Hotspot led to taking over control of the car's brakes while the vehicle was a movement.
+Other abilities such as controlling the mirrors of the car and opening the trunk of the car could be done as well with the same hacking
+sequence or methodology. The details on how it was accomplished is yet to be released by the attacker but the company fixed this zero day
+exploit after 10 days and quickly sent out a patch over the air to all the products running similar software.
+
+Attack on Security News website - Reported on Sept 20, 2016
+krebsonsecurity.com underwent a severe DDoS attack where it received around 620 Gbps of malicious traffic but was protected as it was
+defended by Akamai. But Akamai reported that this was the largest ever DDoS it had seen and withdrew from protecting KrebsonSecurity site
+further as it had to use too much of its resources at disposal to protect this site. KrebsonSecurity site will reinstated by this Friday.
+
+Cisco's Product Security Incident Response Team reported that there is a flaw without a fix in the wild for Cisco products that are using
+iOS software which is exploited by the ShadowBrokers. The Shadow brokers(TSB) is an unknown threat actor responsible of publication of many
+exploit and vulnerabilities.
+
