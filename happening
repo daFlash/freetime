@@ -2,3 +2,12 @@ Yahoo accounts breached - half a billion accounts were breached lately. To be pr
 
 This is the second massive breach for yahoo after the 2014 attempt where 500 million accounts were hacked albeit Yahoo maintaining near to 
 accepted standarts in safe guarding passwords which is Cryptographic hash.
+
+At the time of writing this post, Bob Lord is the CISO of the company.
+
+Peace or Peace of mind is the hacker who could launch a successful attack on Yahoo and is a former member of the Russian Cybercriminal hacking
+team. Hacker seems to be selling stolen customer data for 1800$ and the data includes username, passwords, birth dates and other personal
+information.
+Majority of the passwords that were leaked were cryptographically hashed with the bcrypt hashing scheme which is relatively tough for reversing
+and deciphering the actual password.
+
