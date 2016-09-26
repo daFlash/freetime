@@ -36,6 +36,8 @@ Attack on Security News website - Reported on Sept 20, 2016
 krebsonsecurity.com underwent a severe DDoS attack where it received around 620 Gbps of malicious traffic but was protected as it was
 defended by Akamai. But Akamai reported that this was the largest ever DDoS it had seen and withdrew from protecting KrebsonSecurity site
 further as it had to use too much of its resources at disposal to protect this site. KrebsonSecurity site will reinstated by this Friday.
+Two Israeli hackers were arrested on Thursday who were behind this attack and had a company called vDos and didn't protect the tracks of
+the attack thereby getting caught. Their emailid and phone number could be easily looked up from the domain name registry.
 
 Cisco's Product Security Incident Response Team reported that there is a flaw without a fix in the wild for Cisco products that are using
 iOS software which is exploited by the ShadowBrokers. The Shadow brokers(TSB) is an unknown threat actor responsible of publication of many
